@@ -1,4 +1,4 @@
-remote_theme: PHOTORAMA
+remote_theme: photorama
 plugins:
 - jekyll-remote-theme
 
